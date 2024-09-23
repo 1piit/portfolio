@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { DM_Sans, Space_Mono } from 'next/font/google';
 import './globals.css';
+import { Analytics } from '@vercel/analytics/react';
 
 const DMSans = DM_Sans({ subsets: ['latin'], variable: '--font-dm-sans' });
 const SpaceMono = Space_Mono({
@@ -26,6 +27,7 @@ export default function RootLayout({
         className={`${DMSans.variable} ${SpaceMono.variable} antialiased h-full font-sans`}
       >
         {children}
+        <Analytics />
       </body>
     </html>
   );
