@@ -89,8 +89,8 @@ export const worksExperience: WorkExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    title: '1piit.com',
-    image: '/1piit.com-Portfolio_v1-screen_capture-SD-compressed.png',
+    title: '1piit.dev',
+    image: '/1piit.dev-Portfolio_v1-screen_capture-SD-compressed.png',
     description: (
       <p>
         The website you are currently viewing. 🙃 It’s built with TypeScript,

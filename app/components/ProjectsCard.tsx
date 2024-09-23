@@ -12,7 +12,7 @@ export const ProjectsCard = ({ project }: ProjectsCardProps) => {
         <Image
           className='rounded-3xl border border-black'
           src={project.image}
-          alt={'1piit.com - Portfolio v1'}
+          alt={'1piit.dev - Portfolio v1'}
           fill
           objectFit='cover'
           objectPosition='top'
