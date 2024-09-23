@@ -13,11 +13,11 @@ export const Hero = () => {
       />
       <div className='md:space-y-5 space-y-1'>
         <h2 className='font-mono font-bold text-xl lg:text-2xl text-nowrap'>
-          Hello I'm Pierre!👋
+          Hello I&apos;m Pierre!👋
         </h2>
         <h3 className='text-sm lg:text-lg text-wrap'>
-          I‘m a French <b>full-stack developer</b> with a passion for front-end
-          development.
+          I&apos;m a French <b>full-stack developer</b> with a passion for
+          front-end development.
         </h3>
       </div>
     </Section>

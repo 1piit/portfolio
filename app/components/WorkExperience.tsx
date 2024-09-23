@@ -7,8 +7,8 @@ export const WorkExperience = () => {
   return (
     <Section id='work-experience' className='space-y-5 scroll-mt-28 snap-start'>
       <Title>Work Experience</Title>
-      {worksExperience.map((workExperience) => (
-        <WorkExperienceCard workExperience={workExperience} />
+      {worksExperience.map((workExperience, index) => (
+        <WorkExperienceCard key={index} workExperience={workExperience} />
       ))}
     </Section>
   );

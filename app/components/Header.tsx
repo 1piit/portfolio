@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import { Logo } from './Logo';
-import { Section } from './Section';
 
 export const Header = () => {
   return (
