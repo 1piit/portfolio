@@ -8,7 +8,7 @@ export const Header = () => {
         <Logo className='h-7 w-16' />
 
         <Link
-          href='http://localhost:3000/2024_09-CV_English-Full_Stack_Developer-compressed.pdf'
+          href='https://www.1piit.dev/2024_09-CV_English-Full_Stack_Developer-compressed.pdf'
           target='_blank'
           rel='noreferrer noopener'
           aria-label='My resume (opens in a new tab)'
