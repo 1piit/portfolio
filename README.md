@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/1piit/portfolio/app/favicon.ico" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/1piit/portfolio/refs/heads/main/app/favicon.ico" width="100" />
 </div>
 <h1 align="center">
   1piit.com - v1
